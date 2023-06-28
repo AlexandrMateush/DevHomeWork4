@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="util.DatabaseTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-06-23T12:47:03" hostname="DESKTOP-DEB41DV" time="0.131">
+<testsuite name="util.DatabaseTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-06-28T17:51:40" hostname="DESKTOP-DEB41DV" time="0.152">
   <properties/>
-  <testcase name="testConnection()" classname="util.DatabaseTest" time="0.131"/>
+  <testcase name="testConnection()" classname="util.DatabaseTest" time="0.152"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>

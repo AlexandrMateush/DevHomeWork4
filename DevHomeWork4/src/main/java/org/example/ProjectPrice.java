@@ -1,16 +1,16 @@
 package org.example;
 
 public class ProjectPrice {
-    private String name;
+    private String id;
     private int price;
 
-    public ProjectPrice(String name, int price) {
-        this.name = name;
+    public ProjectPrice(String id, int price) {
+        this.id = id;
         this.price = price;
     }
 
-    public String getName() {
-        return name;
+    public String getId() {
+        return id;
     }
 
     public int getPrice() {
