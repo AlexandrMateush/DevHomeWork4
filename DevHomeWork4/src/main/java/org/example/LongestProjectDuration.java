@@ -1,16 +1,16 @@
 package org.example;
 
 public class LongestProjectDuration {
-    private String projectName;
+    private String id;
     private int duration;
 
-    public LongestProjectDuration(String projectName, int duration) {
-        this.projectName = projectName;
+    public LongestProjectDuration(String id, int duration) {
+        this.id = id;
         this.duration = duration;
     }
 
-    public String getProjectName() {
-        return projectName;
+    public String getId() {
+        return id;
     }
 
     public int getDuration() {
